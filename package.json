@@ -2,7 +2,7 @@
   "name": "up-file",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/martins20/TypeScript.git",
+  "repository": "https://github.com/martins20/up-file",
   "author": "martins20 <pdesignerpb@gmail.com>",
   "license": "MIT",
   "scripts": {
