@@ -34,4 +34,4 @@ $ yarn dev or npm run dev
 
 ### Insomnia
 
-Import Insomnia settings from root folder.
+Import Insomnia settings from root folder. 
